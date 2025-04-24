@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**📌Watch The complete explanation video: On YouTube By clicking on the this👇🏾**
+**📌Watch The complete explanation video on model training: On YouTube By clicking on the this👇🏾**
 
 <a href="https://youtu.be/egXAHySYYSo?autoplay=1">
   <img src="https://img.youtube.com/vi/egXAHySYYSo/0.jpg" alt="Watch the video" width="800"/>
