@@ -13,6 +13,24 @@ https://colab.research.google.com/drive/1D9NzCv12le4eVpPgcPeq99Z8ZG0HNYT7?usp=sh
 Github:
 https://github.com/c-40/HACKTHON
 
+
+Implementation:
+
+
+https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
+
+
+https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
+
+
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/egXAHySYYSo?autoplay=1" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+
 🔷 Project Title:
 Credit Risk Classification Using Machine Learning on the German Credit Dataset
 
@@ -99,21 +117,6 @@ The developed machine learning model, supported by both data-driven and rule-bas
 <img width="1267" alt="Screenshot 2025-04-24 at 11 23 07 PM" src="https://github.com/user-attachments/assets/d2efe71f-ed71-4a88-b9ba-dd502f9f975c" />
 
 
-Implementation:
-
-
-https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
-
-
-https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
-
-
-<iframe width="800" height="450" 
-src="https://www.youtube.com/embed/egXAHySYYSo?autoplay=1" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
 
 
 
