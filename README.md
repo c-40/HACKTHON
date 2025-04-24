@@ -24,8 +24,9 @@ https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
 https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
 
 📌Watch The complete explanation video:
-[![Watch the video](https://path-to-your-custom-image.jpg)](https://youtu.be/egXAHySYYSo?autoplay=1)
-
+<a href="https://youtu.be/egXAHySYYSo?autoplay=1">
+  <img src="https://img.youtube.com/vi/egXAHySYYSo/0.jpg" alt="Watch the video" width="800"/>
+</a>
 
 
 🔷 Project Title:
