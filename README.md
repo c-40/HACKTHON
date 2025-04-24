@@ -98,9 +98,7 @@ weighted avg       0.90      0.89      0.88       200
 The developed machine learning model, supported by both data-driven and rule-based insights, proved effective in classifying applicants as low or high credit risk. The inclusion of the credit_risk_label feature, based on domain-specific thresholds, significantly improved interpretability and predictive power.
 
 
-
-
-
+<img width="1277" alt="Screenshot 2025-04-24 at 11 23 07 PM" src="https://github.com/user-attachments/assets/9c30bb7e-1ee2-4793-b638-22a2b67971bf" />
 
 
 
