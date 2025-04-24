@@ -53,6 +53,7 @@ python
 Copy
 Edit
 def label_credit_risk(row):
+
     if (
         row['Age'] <= 25 or
         row['Job'] == 0 or
