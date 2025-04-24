@@ -13,6 +13,7 @@ https://colab.research.google.com/drive/1D9NzCv12le4eVpPgcPeq99Z8ZG0HNYT7?usp=sh
 Github:
 https://github.com/c-40/HACKTHON
 
+___________________________________________________________________________________________________________________________________________________________________________________
 
 **Implementation:**
 
@@ -20,8 +21,12 @@ https://github.com/c-40/HACKTHON
 
 https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **📌Watch The complete explanation video: On YouTube By clicking on the this👇🏾**
 
@@ -30,11 +35,10 @@ https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
 </a>
 
 
+___________________________________________________________________________________________________________________________________________________________________________________
 
 
-
-
-🔷 **Project Title**:
+🔷 **Project Report**:
 Credit Risk Classification Using Machine Learning on the German Credit Dataset
 
 🔶 Project Introduction:
