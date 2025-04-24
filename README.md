@@ -23,12 +23,8 @@ https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
 https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
 
 
-<iframe width="800" height="450" 
-src="https://www.youtube.com/embed/egXAHySYYSo?autoplay=1" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+[![Watch the video](https://img.youtube.com/vi/egXAHySYYSo/0.jpg)](https://youtu.be/egXAHySYYSo?autoplay=1)
+
 
 
 🔷 Project Title:
