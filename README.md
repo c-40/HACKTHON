@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
 https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
 
 
-[![Watch the video]((https://github.com/user-attachments/assets/c5c84a71-e2cb-44da-b404-35940bebc848))])](https://youtu.be/egXAHySYYSo?autoplay=1)
+[![Watch the video](https://youtu.be/egXAHySYYSo?autoplay=1)
 
 
 
