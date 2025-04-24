@@ -121,6 +121,35 @@ weighted avg       0.90      0.89      0.88       200
 
 🔶 Conclusion:
 The developed machine learning model, supported by both data-driven and rule-based insights, proved effective in classifying applicants as low or high credit risk. The inclusion of the credit_risk_label feature, based on domain-specific thresholds, significantly improved interpretability and predictive power.
+
+**🖥️ How the Model is Used in Streamlit:**
+To make the model interactive and user-friendly, we deployed it using Streamlit, an open-source Python library that allows rapid web app creation for data science and machine learning projects.
+
+✅ Functionality:
+The app takes user input for loan applicant features such as:
+
+1️⃣age
+
+2️⃣Job type
+
+3️⃣Credit amount
+
+4️⃣Duration
+
+5️⃣Purpose
+
+6️⃣Saving & Checking account status
+
+7️⃣Other relevant fields
+
+🔴Based on these inputs, the model predicts whether the applicant is a:
+
+Good Credit Risk (Low Risk) or
+
+Bad Credit Risk (High Risk)
+
+
+
 <img width="1267" alt="Screenshot 2025-04-24 at 11 23 07 PM" src="https://github.com/user-attachments/assets/d2efe71f-ed71-4a88-b9ba-dd502f9f975c" />
 
 
