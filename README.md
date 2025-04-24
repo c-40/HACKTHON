@@ -75,7 +75,7 @@ Analyzed feature importance to identify key influencers of credit risk.
 Measured accuracy, precision, recall, and F1-score
 Plotted confusion matrix and ROC-AUC curve
 Analyzed learning curves to detect overfitting or underfitting
-Ensemble Model Accuracy: 0.89
+**Model Accuracy: 0.89**
 
 Confusion Matrix:
  [[145   2]
@@ -106,6 +106,7 @@ https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
 
 
 https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
+
 
 
 
