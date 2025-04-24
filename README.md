@@ -99,6 +99,15 @@ The developed machine learning model, supported by both data-driven and rule-bas
 <img width="1267" alt="Screenshot 2025-04-24 at 11 23 07 PM" src="https://github.com/user-attachments/assets/d2efe71f-ed71-4a88-b9ba-dd502f9f975c" />
 
 
+Implementation:
+
+
+https://github.com/user-attachments/assets/0c2ce3e0-bd8d-4aa6-ae40-783749c875cd
+
+
+https://github.com/user-attachments/assets/8244487f-0cfb-40bc-a6cf-a20ff3441d1c
+
+
 
 
 
